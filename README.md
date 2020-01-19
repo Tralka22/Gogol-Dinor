@@ -1,9 +1,9 @@
 # Gogol-Dinor
 - Motion animation
 - Score
-- Physics
+- Realistic physics
 - Duck
 - 3 levels of obstacles
-- Saving of best score
+- Saving best score
 - Restart option
-- Experimental resizing option
+- Experimental window resizing option
