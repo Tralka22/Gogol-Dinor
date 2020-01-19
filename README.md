@@ -1,4 +1,4 @@
-# Gogol-Dinor
+# GOGOL DINOR
 - Motion animation
 - Score
 - Realistic physics
